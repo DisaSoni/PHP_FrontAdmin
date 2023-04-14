@@ -20,3 +20,5 @@ Full tutorial URL: https://codeadam.ca/learning/php-cms.html
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
 </a>
+
+http://disakrunalsoni.epizy.com/DisaSoni_CMS/
